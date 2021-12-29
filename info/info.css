@@ -1,0 +1,101 @@
+/* Do Hyeon - OFL (2021.12.29) */
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap');
+
+
+body {
+    text-align: center;
+    background-color: #252A34;
+    color: #ffffff;
+    font-family: 'Do Hyeon', sans-serif;
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+
+.neonText {
+    font-family: Arial, Helvetica, sans-serif;
+    animation: neon-flicker 3s infinite alternate;
+}
+
+@keyframes neon-flicker {
+    
+    0%, 15%, 20%, 25%, 50%, 55%, 100% {
+  
+        text-shadow:
+        0 0 5px #ffffff,
+        0 0 20px #ffffff,
+        0 0 40px #5757ff,
+        0 0 50px #6868ff,
+        0 0 60px #8989FF,
+        0 0 80px #8989FF;
+    
+    }
+    
+    20%, 25%, 55% {        
+        text-shadow: none;
+    }    
+  }
+
+#info {
+    margin: 70px auto;
+    width: 500px;
+}
+
+#neon-box {
+    background-color: #222222;
+    box-shadow: 2px 2px 2px 2px #1b1b1b inset;
+    padding: 50px;
+    border-radius: 15px;
+    font-style: italic;
+    font-size: 35px;
+    cursor: default;
+}
+
+p {
+    margin-top: 60px;
+    line-height: 140%;
+    font-size: 25px;
+}
+
+strong {
+    background: linear-gradient(to right top, #8A13FC, #ffffff);
+    color: transparent;
+    -webkit-background-clip: text;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+svg {
+    color: #b15eff;
+    margin-right: 10px;
+}
+
+.button {
+    padding: 10px;
+    background-color: #191d24;
+    opacity: 0.4;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+.button:hover {
+    opacity: 0.9;
+}
+
+#back {
+    width: 100px;
+    margin-top: 40px;
+}
+
+#blog {
+    width: 130px;
+}
+
+@media (max-width: 500px) {
+    #info {
+        width: 100vw;
+    }
+}
