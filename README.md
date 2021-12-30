@@ -7,8 +7,8 @@
 favicon 및 inedx.html 내부 svg 아이콘: Bootstrap  
 **해당 코드는 Bootstrap Icon을 활용하였습니다.**  
 
-Do Hyeon: OFL
-**해당 코드는 Do Hyeon 폰트를 적용하였습니다.**
+Do Hyeon: OFL  
+**해당 코드는 Do Hyeon 폰트를 적용하였습니다.**  
 
 ---
 
