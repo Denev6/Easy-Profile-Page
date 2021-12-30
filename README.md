@@ -4,7 +4,7 @@
 (profile.jpg):  DeneV  
 **해당 사진은 사적 또는 교육용 목적으로만 활용해 주세요.**  
 
-favicon 및 inedx.html 내부 svg 아이콘: Bootstrap  
+favicon 및 svg: Bootstrap  
 **해당 코드는 Bootstrap Icon을 활용하였습니다.**  
 
 Do Hyeon: OFL  
