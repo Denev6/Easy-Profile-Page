@@ -1,4 +1,4 @@
-웹 코딩 입문을 위한 HTML, CSS 샘플입니다.  
+### 웹 코딩 입문을 위한 HTML, CSS 샘플입니다.  
 
 
 (profile.jpg):  DeneV  
@@ -9,8 +9,6 @@ favicon 및 inedx.html 내부 svg 아이콘: Bootstrap
 
 ---
 
-미리보기:  
-https://profile-sample.netlify.app/  
+[미리보기](https://profile-sample.netlify.app/)  
 
-설명 글:  
-https://blog.naver.com/music5038/222608092073  
+[설명 글](https://blog.naver.com/music5038/222608092073)  
