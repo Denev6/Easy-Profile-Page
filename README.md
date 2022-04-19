@@ -2,7 +2,6 @@
 <br>
 
 profile.jpg:  DeneV  
-**해당 사진은 사적 또는 교육용 목적으로만 활용해 주세요.**  
 
 favicon 및 svg: Bootstrap  
 **해당 코드는 Bootstrap Icon을 활용하였습니다.**  
